@@ -1,0 +1,6 @@
+.idea
+out
+*.pyc
+*.swp
+.DS_Store
+.vscode
